@@ -39,5 +39,5 @@
 - The average tenure for each department is about 8 years with Accounting, Auditing and Engineering having the highest while Support,Training and Project Manangement departments recording the lowest.
 
 ## Limitation
-Some records had negative ages and these were excluded during querying(967 records). Ages used were 20 years and above.
-Some termdates were far into the future and were not included in the analysis(1599 records). The only term dates used were those less than or equal to the current date.
+- Some records had negative ages and these were excluded during querying(967 records). Ages used were 20 years and above.
+- Some termdates were far into the future and were not included in the analysis(1599 records). The only term dates used were those less than or equal to the current date.
